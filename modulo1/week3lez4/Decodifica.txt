@@ -1,0 +1,9 @@
+1. HSNFRGH
+        Testo decifrato: EPICODE 
+        Cifrario di cesare, la lettera va indietro di 3
+2.QWJhIHZ6b2VidHl2bmdyIHB1ciB6ciBhciBucHBiZXRi
+        Testo decifrato: Non imbrogliate che me ne accorgo
+        Decodifica Base64
+        Cifrario di Cesare applicando tutti gli shift da 1 a 25
+
+Strumenti online per la decifare il cifrario cesare e Decodifica base64
