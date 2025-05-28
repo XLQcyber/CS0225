@@ -1,0 +1,26 @@
+sle=single loss expectancy
+ale=annualized loss expectancy
+
+Inondazione sullʼasset «edificio secondario»
+sle=150.000*0,40=60.000$
+ale=60.000*0,05=3000$
+
+Terremoto sullʼasset «datacenter»
+sle=100.000*0,95=95.000$
+ale=95.000*0,03=2850$
+
+Incendio sullʼasset «edificio primario» 
+sle=350.000*0,60=210.000$
+ale=210.000*0,02=4200$
+
+incendio sullʼasset «edificio secondario»
+sle=150.000*0,50=75.000$
+ale=75.000*0,02=1500$
+
+Inondazione sullʼasset «edificio primario»
+sle=350.000*0,55=192.500$
+ale=192.500*0.05=9625$
+
+Terremoto sullʼasset «edificio primario»
+sle=350.000*0,80=280.000$
+ale=280.000*0,03=8400$
